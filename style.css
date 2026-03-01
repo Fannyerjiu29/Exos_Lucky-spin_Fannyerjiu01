@@ -1,0 +1,36 @@
+body{
+  margin:0;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background: radial-gradient(circle,#0f2027,#203a43,#2c5364);
+  font-family:sans-serif;
+  color:white;
+}
+
+.container{
+  text-align:center;
+}
+
+.wheel{
+  width:320px;
+  height:320px;
+  border-radius:50%;
+  border:8px solid gold;
+  transition: transform 5s cubic-bezier(.17,.67,.25,1);
+  margin:20px auto;
+}
+
+.pointer{
+  font-size:30px;
+  color:gold;
+}
+
+button{
+  padding:12px 40px;
+  font-size:18px;
+  background:gold;
+  border:none;
+  border-radius:10px;
+}
