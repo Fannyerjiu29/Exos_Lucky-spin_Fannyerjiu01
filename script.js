@@ -44,7 +44,7 @@ function spin(){
 
     alert(
 "🎉 Congratulations,You get Exos Lucky Box！"
-    );
+    )(The Reward Will Be Sent To Your Mail-Box Within 30 Minutes.;
 
   },5200);
              }
