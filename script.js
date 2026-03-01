@@ -9,7 +9,7 @@ const prizes = [Exos Lucky Draw-Fannyerjiu
 "Exos Lucky Box ⭐"
 ];
 
-const forcedIndex = 7;
+const forcedIndex = “Exos Lucky Box”;
 
 const wheel = document.getElementById("wheel");
 
